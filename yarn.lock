@@ -2743,10 +2743,10 @@ get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
 
-github-reserved-names@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/github-reserved-names/-/github-reserved-names-1.1.5.tgz#96e84917011fc1791875d5ee4ef29fa1f024c284"
-  integrity sha512-x2BSCHjHKTz3zrSZ+e0ekD9voUxkgU51r0ZDfcq/QX4/cxVteyTOu3oP/7nV2TTAZI4RsL+zM3TFpyFsw2qeLg==
+github-reserved-names@^1.1.10:
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/github-reserved-names/-/github-reserved-names-1.1.10.tgz#b0fb4297c3b10fb6d9ec418a20f4312a833ba988"
+  integrity sha512-N6z2glLRO63gJgsMv9j9mlKtr3SkDKBoRGL7t2yKD05Y6rlkFzYAhRb+sSLlKKyXVvjwEBpl/4vw7NaUJ7l5iw==
   dependencies:
     meow "^5.0.0"
 
