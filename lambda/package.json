@@ -13,7 +13,7 @@
     "claudia": "^5.2.0"
   },
   "dependencies": {
-    "aws-serverless-express": "^3.3.5",
+    "aws-serverless-express": "^3.3.8",
     "express": "^4.16.4",
     "morgan": "^1.9.1",
     "node-fetch": "^2.3.0"
